@@ -6,12 +6,6 @@ import "./App.css";
 import HomePage from "./pages/homepage/HomePage";
 import ShopPage from "./pages/Shop/ShopPage";
 
-const HatsPage = () => (
-  <div>
-    <h1>HATS PAGE</h1>
-  </div>
-);
-
 function App() {
   return (
     <div>
