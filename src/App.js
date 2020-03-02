@@ -6,7 +6,7 @@ import "./App.css";
 import HomePage from "./pages/homepage/HomePage";
 import ShopPage from "./pages/Shop/ShopPage";
 import Header from "./components/Header/Header";
-import SignInAndSignUp from "./pages/Sign-In-and-Sign-Up";
+import SignInAndSignUp from "./pages/SignInAndSignUp/SignInAndSignUp";
 
 function App() {
   return (
